@@ -37,9 +37,9 @@
     <img src="./images/imager_setting_3.png" alt="img3" width="25%">
     <img src="./images/imager_setting_4.png" alt="img4" width="25%">
 
-    > [!NOTE]  
-    > 建議每次燒錄系統都重新確認 使用者與 WiFi 帳號密碼是否正確  
-    > 同時確保 SSH 為開啟狀態
+> [!NOTE]  
+> 建議每次燒錄系統都重新確認 使用者與 WiFi 帳號密碼是否正確  
+> 同時確保 SSH 為開啟狀態
 
 1. 點擊確認  
     <img src="./images/imager_setting_5.png" alt="img5" width=50%>
